@@ -1,6 +1,7 @@
 {
-	"api-key": "${api-key-form-env}",
-	"api-key2": "65c05687159dff4b04236ae5d5aae8be45419703",
-	"secret": "2fb386d44a64a7abd600b8d03863935ccd7b875f2c0449cb37c7982b35b8306a1f71d19595be9b6a",
+	"api-key" : "${api-key-form-env}",
+	"api-key2" : "65c05687159dff4b04236ae5d5aae8be45419703",
+	"secret40" : "2fb386d44a64a7abd600b8d03863935ccd7b875f2c0449cb37c7982b35b8306a1f71d19595be9b6a",
+	"secret60" : "80d7cc4997454e2c12986900afd0a5b650a6c9b3463a0bef777f269372614e9b9e462d45d63a2ecb214285a704255fd9a82c534e22e677bf52ee5496",
 	"someother": "config"
 }
