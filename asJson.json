@@ -1,0 +1,6 @@
+{
+	"api-key": "${api-key-form-env}",
+	"api-key2": "65c05687159dff4b04236ae5d5aae8be45419703",
+	"secret": "2fb386d44a64a7abd600b8d03863935ccd7b875f2c0449cb37c7982b35b8306a1f71d19595be9b6a",
+	"someother": "config"
+}
